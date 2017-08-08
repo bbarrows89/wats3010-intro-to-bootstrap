@@ -10,7 +10,17 @@
     padding-bottom:20px !important;
 }
  */
+body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
 
+.btn:hover {
+    background-color: lightcoral;
+}
+
+.carousel-inner a {
+    color: lightcoral;
+}
  .navbar-brand {
   padding: 0px;
 }
@@ -22,6 +32,12 @@
 
 #personnel {
     padding:10px;
+}
+
+#why {
+    background-color: black;
+    color: white;
+    
 }
 /* from footer styling */
 
