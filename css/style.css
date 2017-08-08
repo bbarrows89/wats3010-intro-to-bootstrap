@@ -1,1 +1,7 @@
 /* Custom styles go here. */
+
+/* used to extend height of navbar to fit logo at all screen sizes */
+.navbar {
+    min-height: 60px;
+}
+
