@@ -15,6 +15,9 @@ body {
     padding-top: 35px;
 }
 
+header {
+    min-height: 60px;
+}
 
 /* #subtitle {
     color: coral;
